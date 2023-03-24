@@ -1,0 +1,42 @@
+BN59-00857A
+
+Power data=0xE0E040BF, nbits=32
+TV data=0xE0E0D827, nbits=32
+1 data=0xE0E020DF, nbits=32
+2 data=0xE0E0A05F, nbits=32
+3 data=0xE0E0609F, nbits=32
+4 data=0xE0E010EF, nbits=32
+5 data=0xE0E0906F, nbits=32
+6 data=0xE0E050AF, nbits=32
+7 data=0xE0E030CF, nbits=32
+8 data=0xE0E0B04F, nbits=32
+9 data=0xE0E0708F, nbits=32
+- data=0xE0E0C43B, nbits=32
+0 data=0xE0E08877, nbits=32
+PRE data=0xE0E0C837, nbits=32
+VOL+ data=0xE0E0E01F, nbits=32
+VOL- data=0xE0E0D02F, nbits=32
+MUTE data=0xE0E0F00F, nbits=32
+SOURCE data=0xE0E0807F, nbits=32
+CH+ data=0xE0E0807F, nbits=32
+CH- data=0xE0E008F7, nbits=32
+CH LIST data=0xE0E0D629, nbits=32
+MENU data=0xE0E058A7, nbits=32
+FAV.CH data=0xE0E022DD, nbits=32
+TOOLS data=0xE0E0D22D, nbits=32
+RETURN data=0xE0E01AE5, nbits=32
+INFO data=0xE0E0F807, nbits=32
+EXIT data=0xE0E0B44B, nbits=32
+UP data=0xE0E006F9, nbits=32
+DOWN data=0xE0E08679, nbits=32
+LEFT data=0xE0E0A659, nbits=32
+RIGHT data=0xE0E046B9, nbits=32
+ENTER data=0xE0E016E9, nbits=32
+RED data=0xE0E036C9, nbits=32
+GREEN data=0xE0E028D7, nbits=32
+YELLOW data=0xE0E0A857, nbits=32
+BLUE data=0xE0E06897, nbits=32
+P.SIZE data=0xE0E07C83, nbits=32
+MTS data=0xE0E000FF, nbits=32
+CC data=0xE0E0A45B, nbits=32
+
