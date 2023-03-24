@@ -16,7 +16,7 @@ VOL+ data=0xE0E0E01F, nbits=32
 VOL- data=0xE0E0D02F, nbits=32
 MUTE data=0xE0E0F00F, nbits=32
 SOURCE data=0xE0E0807F, nbits=32
-CH+ data=0xE0E0807F, nbits=32
+CH+ data=0xE0E048B7, nbits=32
 CH- data=0xE0E008F7, nbits=32
 CH LIST data=0xE0E0D629, nbits=32
 MENU data=0xE0E058A7, nbits=32
