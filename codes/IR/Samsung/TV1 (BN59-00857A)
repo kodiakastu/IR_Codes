@@ -1,5 +1,3 @@
-BN59-00857A
-
 Power data=0xE0E040BF, nbits=32
 TV data=0xE0E0D827, nbits=32
 1 data=0xE0E020DF, nbits=32
@@ -39,4 +37,3 @@ BLUE data=0xE0E06897, nbits=32
 P.SIZE data=0xE0E07C83, nbits=32
 MTS data=0xE0E000FF, nbits=32
 CC data=0xE0E0A45B, nbits=32
-
